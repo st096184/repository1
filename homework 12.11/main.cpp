@@ -19,7 +19,6 @@ void printMenu()
     cout << "4. Удалить элемент из конца массива." << endl;
     cout << "5. Удалить элемент из начала массива." << endl;
     cout << "6. Развернуть массив." << endl;
-    co
 }
 
 void ptintArr(int* a, int count)
